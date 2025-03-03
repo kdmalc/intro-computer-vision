@@ -1,1 +1,1 @@
-"# intro-computer-vision" 
+# intro-computer-vision (ELEC 546)
